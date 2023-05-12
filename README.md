@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de desenvolvimento web buscando iniciar a carreira profissional.<br>Focado no desenvolvimento back-end.<br>Amante de quebra cabeças e jogos de lógica desde criança.<br>
+Buscando iniciar a carreira profissional como desenvolvedor.<br>Focado em front-end<br>Amante de quebra cabeças e jogos de lógica desde criança.<br>
 
 
 ## 🌐 Socials:
